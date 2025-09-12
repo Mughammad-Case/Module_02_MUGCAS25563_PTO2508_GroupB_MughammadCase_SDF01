@@ -71,9 +71,9 @@ Here are some of my milestone projects (to be updated as I progress!):
 📧 Email: [caseameen44@gmail.com](mailto:caseameen44@gmail.com)
 ---
 
-## 🚀 Fun Fact
+## 🌟 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 My superpower is my natural curiosity, which helps me adapt to challenges and enjoy finding or creating solutions.
 
 ---
 
