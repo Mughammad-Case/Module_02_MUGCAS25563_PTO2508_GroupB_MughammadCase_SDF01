@@ -1,8 +1,8 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm Mughammad Case
+# 👋 Hello, I'm Mughammad Case
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🌱 Aspiring Software Developer | 🚀 Excited to Learn & Build
 
 ---
 
@@ -73,7 +73,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🌟 Fun Fact
 
-💡 My superpower is my natural curiosity, which helps me adapt to challenges and enjoy finding or creating solutions.
+- 💡 My superpower is my natural curiosity, which helps me adapt to challenges and enjoy finding or creating solutions.
 
 ---
 
